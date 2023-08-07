@@ -1,0 +1,22 @@
+{
+  "name": "namae",
+  "version": "1.0.0",
+  "description": "Fake Japanese Names Generator",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gXLg/namae.git"
+  },
+  "author": "gXLg",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gXLg/namae/issues"
+  },
+  "homepage": "https://github.com/gXLg/namae#readme",
+  "dependencies": {
+    "axios": "^1.4.0"
+  }
+}
