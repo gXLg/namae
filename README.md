@@ -4,11 +4,11 @@ Fake Japanese Names Generator
 # Usage
 The repo is ready to use when
 being downloaded, except you want to
-apply some fine-tuning.
-
-Install dependencies with `npm install`.
+apply some fine-tuning. To work with the model,
+install dependencies with `npm install`.
 
 Generate names directly by running `node index.js` or `node .`.
+(dependencies not needed).
 
 Or you can use the repo as a package and use it like this:
 ```js
