@@ -1,6 +1,26 @@
 # namae
 Fake Japanese Names Generator
 
+# Usage
+The repo is ready to use when
+being downloaded, except you want to
+apply some fine-tuning.
+
+Install dependencies with `npm install`.
+
+Generate names directly by running `node index.js` or `node .`.
+
+Or you can use the repo as a package and use it like this:
+```js
+const namae = require("./namae");
+
+(async () => {
+
+  console.log(await namae());
+
+})();
+```
+
 # Motivation
 Created for fun to generate names for
 my Android Easter Egg cats.
